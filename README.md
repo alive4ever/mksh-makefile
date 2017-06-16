@@ -1,6 +1,6 @@
-#mksh-makefile - Makefile for building mksh
+# mksh-makefile - Makefile for building mksh
 
-##Introduction
+## Introduction
 
 ``mksh`` is a nice shell, which is based on ``pdksh`` and packing nice
 features.
@@ -12,12 +12,12 @@ somewhat uncomfortable.
 I wrote this my own ``Makefile`` to make it easy for me for building
 ``mksh``.
 
-##Requirement
+## Requirement
 
 A ``make`` program. You can use GNU Make or ``make`` that comes with BSD
 operating systems.
 
-##How to use
+## How to use
 
 Standard ``make`` targets are available.
 
@@ -34,7 +34,7 @@ perform it using the command below.
 
 ``# make PREFIX='/usr/local' install``
 
-##License
+## License
 
 This program is licensed under the MIT License.
 
