@@ -36,5 +36,5 @@ perform it using the command below.
 
 ## License
 
-This program is licensed under the MIT License.
+This ``Makefile`` is licensed under the MIT License.
 
